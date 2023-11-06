@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-shadow:hover {
+  box-shadow: 4px -3px 77px -6px rgba(82, 255, 168, 0.77);
+  -webkit-box-shadow: 4px -3px 77px -6px rgba(82, 255, 168, 0.77);
+  -moz-box-shadow: 4px -3px 77px -6px rgba(82, 255, 168, 0.77);
+}
