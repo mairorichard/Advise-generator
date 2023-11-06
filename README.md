@@ -30,9 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- check this out  -->
-
-![iuh](./src/assets/react.svg)
+![](./src/assets/advise-generator.png)
 
 ### Links
 
